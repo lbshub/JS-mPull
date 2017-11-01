@@ -53,4 +53,4 @@ pull.$on('pullDown', function() {
 ```
 
 ### DEMO
-index.html  ----  load.html
+index.html
